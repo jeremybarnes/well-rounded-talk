@@ -1,4 +1,4 @@
-well-rounded-talk.pdf:	talk.tex salary-venn.pdf
+well-rounded-talk.pdf:	talk.tex salary-venn.pdf rich-poor.pdf
 	pdflatex talk.tex
 	pdflatex talk.tex
 	pdflatex talk.tex
